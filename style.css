@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input, button{
+    background: none;
+    border: none;
+    width: 50px;
+}
+input:focus{
+    outline: none;
+}
+.check{
+    width: 15px;
+    margin: 5px;
+    outline: none;
+    border: none;
+}
+.cronometro{
+    width: 375px;
+}
+button i{
+    font-size: 25pt;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    height: 70vh;
+    margin: auto;
+    justify-content: space-around;
+}
+.btn{
+    padding: 15pt 35pt;
+}
