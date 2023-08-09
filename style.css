@@ -1,37 +1,47 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-input, button{
+
+input, button {
     background: none;
     border: none;
     width: 50px;
+    color: #f5f5f5;
+    text-align: center;
 }
-input:focus{
+
+input:focus {
     outline: none;
 }
-.check{
+
+.check {
     width: 15px;
     margin: 5px;
     outline: none;
     border: none;
 }
-.cronometro{
+
+.cronometro {
     width: 375px;
 }
-button i{
+
+button i {
     font-size: 25pt;
     padding: 15px;
 }
-a{
+
+a {
     text-decoration: none;
 }
-.container{
+
+.container {
     height: 70vh;
     margin: auto;
     justify-content: space-around;
 }
-.btn{
+
+.btn {
     padding: 15pt 35pt;
 }
